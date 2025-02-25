@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="70">
+    <author>Matt Swaim</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Dynamic Implement Speed</en>
+    </title>
+    <description>
+        <en>Allows vehicles with excess horsepower to operate implements at higher speeds.</en>
+    </description>
+    
+    <iconFilename>modIcon.dds</iconFilename>
+    <multiplayer supported="true" />
+    
+    <extraSourceFiles>
+        <sourceFile filename="scripts/DynamicImplementSpeed.lua" />
+    </extraSourceFiles>
+</modDesc>
