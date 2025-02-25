@@ -47,8 +47,8 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Your chosen license]
+MIT License
 
 ## Credits
 
-Created by [Your Name] 
+Created by Matthew Swaim
